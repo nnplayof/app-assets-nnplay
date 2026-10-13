@@ -1,5 +1,5 @@
-     1_jogododia.png = https://www.youtube.com/watch?v=JHWt9IDDYEM                            
-     2_capa.png                                                                               
-     3_radio.png = radio                                                                      
-     4_futebol.png = futebol                                                                  
-     5_jornalismo.png = jornalismo
+1_jogododia.png = https://www.youtube.com/watch?v=JHWt9IDDYEM                            
+2_capa.png                                                                               
+3_radio.png = radio                                                                      
+4_futebol.png = futebol                                                                  
+5_jornalismo.png = jornalismo
